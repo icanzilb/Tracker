@@ -25,5 +25,5 @@
 
 #import <Foundation/Foundation.h>
 
-static NSString* kGATrackingId = @"UA-34358526-5";
+static NSString* kGATrackingId = @"";
 static const NSInteger kGANDispatchPeriodSec = 30;
